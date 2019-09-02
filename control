@@ -1,0 +1,9 @@
+Package: me.chronix.powermeoff
+Name: PowerMeOff
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: A tweak that insults you for being a pussy.
+Maintainer: Chronix
+Author: Chronix
+Section: Tweaks
